@@ -40,8 +40,8 @@ This is another model of repository
      * **Adding Images into markdown**
       * <img src="https://images.shiksha.com/mediadata/images/1597651635phph0gvP3.jpeg">
      * Hyperlinks
-       [APSSDC]()
-       [CBIT]()
+       [APSSDC]()https://www.apssdc.in/home/images/apssdc_final.png
+       [CBIT]()https://www.cbit.ac.in/wp-content/uploads/2019/01/gal-image-1.jpg
      
    
    
